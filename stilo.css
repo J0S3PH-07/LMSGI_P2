@@ -1,0 +1,75 @@
+
+h1 {
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    border: 1px solid black;
+}
+
+caption {
+    color: gold;
+    font-size: 25px;
+    padding: 10px;
+}
+
+th {
+    width: 100px;
+    background-color: lightgreen;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+td {
+    margin: auto;
+    border: 1px solid black;
+    padding-right: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td.LMSGI {
+    background-color: rgb(237, 178, 231);
+    border: 1px solid black;
+}
+
+td.BD {
+    background-color: rgb(255, 232, 205);
+    border: 1px solid black;
+}
+
+td.ped {
+    background-color: rgb(71, 159, 152);
+    border: 1px solid black;
+}
+
+td.SI {
+    background-color: rgb(230, 233, 74);
+    border: 1px solid black;
+}
+
+td.TUT {
+    background-color: rgb(110, 136, 230);
+    border: 1px solid black;
+}
+
+td.AN {
+    background-color: rgb(240, 199, 78);
+    border: 1px solid black;
+}
+
+td.DIW {
+    background-color: rgb(239, 140, 59);
+    border: 1px solid black;
+}
+
+td.IPOI {
+    background-color: rgb(181, 24, 24);
+    border: 1px solid black;
+}
