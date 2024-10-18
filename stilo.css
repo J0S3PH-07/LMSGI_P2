@@ -7,9 +7,11 @@ h1 {
 
 table {
     margin: auto;
+    text-align: center;
     border-collapse: collapse;
     width: 80%;
     border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 caption {
@@ -24,52 +26,61 @@ th {
     text-align: center;
     font-weight: bold;
     border: 1px solid black;
+    padding: 30px;
+    font-size: 25px;
 }
 
 td {
     margin: auto;
     border: 1px solid black;
-    padding-right: 10px;
+    padding: 105x;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
 }
 
-td.LMSGI {
+.LMSGI {
     background-color: rgb(237, 178, 231);
     border: 1px solid black;
 }
 
-td.BD {
+.BD {
     background-color: rgb(255, 232, 205);
     border: 1px solid black;
 }
 
-td.ped {
+.ped {
     background-color: rgb(71, 159, 152);
     border: 1px solid black;
 }
 
-td.SI {
+.SI {
     background-color: rgb(230, 233, 74);
     border: 1px solid black;
 }
 
-td.TUT {
+.TUT {
     background-color: rgb(110, 136, 230);
     border: 1px solid black;
 }
 
-td.AN {
+.AN {
     background-color: rgb(240, 199, 78);
     border: 1px solid black;
 }
 
-td.DIW {
+.DIW {
     background-color: rgb(239, 140, 59);
     border: 1px solid black;
 }
 
-td.IPOI {
+.IPOI {
     background-color: rgb(181, 24, 24);
     border: 1px solid black;
+}
+
+.hores {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
 }
